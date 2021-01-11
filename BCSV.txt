@@ -78,6 +78,7 @@ CalcGravity
 Callback
 camendint
 Camera_id
+camera_id
 Camera_through
 CameraMoveIntensity
 CameraMoveSpeed
@@ -94,6 +95,7 @@ camint
 camtype
 CannonFleetGalaxy
 CastID
+CastId
 CastID0
 CastID1
 CastID2
@@ -478,12 +480,14 @@ MysteryCandyGalaxy
 MysteryCandyPlanetZone
 NailedUpHanaPlanetZone
 Name
+name
 NamePlatePosX
 NamePlatePosY
 NamePlatePosZ
 NearLimitRate
 NewAquariumZone
 No
+no
 NoGravity2DTestZone
 Normal
 NormalEnemyAttack
@@ -541,6 +545,7 @@ ParamScale
 ParamType
 ParamWalkToPlayer
 ParentID
+ParentId
 ParentName
 PartName
 PartsIndex
@@ -826,9 +831,11 @@ SwitchName
 SwitchNo
 sx
 sY
+sy
 SyncShow
 SystemSe
 sZ
+sz
 TamakoroExLv1Galaxy
 TamakoroExLv2Galaxy
 TamakoroFlipPanel02Zone
@@ -867,6 +874,7 @@ TwisterTowerGalaxy
 TwoLegsBossZone
 TwoSidesMazeOrgZone
 Type
+type
 tz
 udown
 UnbabaHomePlanetZone
