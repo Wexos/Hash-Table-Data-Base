@@ -1102,6 +1102,12 @@ SensorStampLeftStepMin
 SensorStampRight
 SensorStampRightStepMax
 SensorStampRightStepMin
+SensorTurlp
+SensorTurlpStepMax
+SensorTurlpStepMin
+SensorTurn
+SensorTurnStepMax
+SensorTurnStepMin
 SensorType
 SensorWeakPointBack
 SensorWeakPointBackStepMax
