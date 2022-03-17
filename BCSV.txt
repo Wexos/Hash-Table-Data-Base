@@ -1051,9 +1051,12 @@ SensorPlayerStepMin
 SensorPush
 SensorPushStepMax
 SensorPushStepMin
+SensorSearch
 SensorSearchArea
 SensorSearchAreaStepMax
 SensorSearchAreaStepMin
+SensorSearchStepMax
+SensorSearchStepMin
 SensorShell
 SensorShell2
 SensorShell2StepMax
