@@ -1049,8 +1049,11 @@ SensorPlayer
 SensorPlayerStepMax
 SensorPlayerStepMin
 SensorPush
+Sensorpush
 SensorPushStepMax
+SensorpushStepMax
 SensorPushStepMin
+SensorpushStepMin
 SensorSearch
 SensorSearchArea
 SensorSearchAreaStepMax
