@@ -471,6 +471,7 @@ MarioFaceShipGalaxy
 MarioFaceShipZone
 MarioNo
 MarioOnMarioGalaxy
+Material
 MemoryRoadGalaxy
 MessageId
 Metal
