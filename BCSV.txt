@@ -525,6 +525,7 @@ KoopaLv3CZone
 KoopaVs1Road02Zone
 KuriboThirtyZone
 l_id
+Label
 label
 LandEffect
 LargeActionPlanetBZone
