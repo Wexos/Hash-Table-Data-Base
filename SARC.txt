@@ -1007,6 +1007,13 @@ anim/rc_ResultTimeTrial_00_In.bflan
 anim/rc_ResultTimeTrial_00_Out.bflan
 anim/rc_ResultTimeTrial_00_Position.bflan
 anim/rc_ResultTimeTrial_00_PositionRaceNum.bflan
+anim/Test_ed_TotalResult_Team_in.bflan
+anim/Test_ed_TotalResult_Team_In_Rank.bflan
+anim/Test_ed_TotalResult_Team_Loop.bflan
+anim/Test_ed_TotalResult_Team_LoopMt.bflan
+anim/Test_ed_TotalResult_Team_PointDigitChange.bflan
+anim/Test_ed_TotalResult_Team_PointNumChange.bflan
+anim/Test_ed_TotalResult_Team_TextPos.bflan
 anim/tv_BG_Cmn_00_In.bflan
 anim/tv_BG_Cmn_00_Out.bflan
 anim/tv_Control_00_In.bflan
@@ -1493,6 +1500,7 @@ blyt/rc_ResultTimeTrial_00.bflyt
 blyt/rc_TitleSceneWait_00.bflyt
 blyt/rc_TvMap_00.bflyt
 blyt/rc_Viewer_00.bflyt
+blyt/Test_ed_TotalResult_Team.bflyt
 blyt/tv_BG_Cmn_00.bflyt
 blyt/tv_Control_00.bflyt
 blyt/tv_Highlight_00.bflyt
