@@ -34,7 +34,9 @@ AutumnMysteryRoomZone
 axis.X
 axis.Y
 axis.Z
+BackTimer
 BankProgNo
+BankProgNoName
 BarrelBaloonTestZone
 BarrelColonyZone
 BarrelTestZone
@@ -535,6 +537,7 @@ LavaBallSlicesPlanetZone
 LavaFluffFlyingPlanetZone
 LavaHammerBrosPlanetZone
 LavaTowerZone
+LayerName
 LayerNo
 LevelNum
 LibraryRoom
@@ -645,6 +648,7 @@ OceanPuddingZone
 OceanRingGalaxy
 OceanRingZone
 OceanTwinPiratesZone
+OffObj_ID
 OffsetX
 OffsetY
 OffsetY0
@@ -655,6 +659,7 @@ OmoteuLandGalaxy
 OmoteuLandManholeLiftZone
 OnimasuPlanetZone
 OnimasuZone
+OnObj_ID
 OpenCondition0
 OpenCondition1
 OpenCondition2
@@ -1108,6 +1113,9 @@ SensorTurlp
 SensorTurlpStepMax
 SensorTurlpStepMin
 SensorTurn
+SensorTurn2
+SensorTurn2StepMax
+SensorTurn2StepMin
 SensorTurnStepMax
 SensorTurnStepMin
 SensorType
@@ -1133,6 +1141,7 @@ ShowModel
 SideOffset
 SideSize
 SignMotionType
+SingleSoundId
 SizeUpRate
 SizeX
 SizeY
@@ -1403,6 +1412,7 @@ woffset.X
 woffset.Y
 woffset.Z
 WoodCircleCutZone
+WorldIndex
 WorldMap01Galaxy
 WorldMap02Galaxy
 WorldMap03Galaxy
