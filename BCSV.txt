@@ -1109,9 +1109,6 @@ SensorStampLeftStepMin
 SensorStampRight
 SensorStampRightStepMax
 SensorStampRightStepMin
-SensorTurlp
-SensorTurlpStepMax
-SensorTurlpStepMin
 SensorTurn
 SensorTurn2
 SensorTurn2StepMax
